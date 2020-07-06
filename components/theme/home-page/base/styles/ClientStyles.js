@@ -87,7 +87,7 @@ export const ClientStyles = styled.li`
     }
   }
 
-  @media screen and (max-width: 424px) {
+  @media screen and (max-width: 359px) {
     .client {
       width: 90%;
 

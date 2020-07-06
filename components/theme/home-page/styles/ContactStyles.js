@@ -175,7 +175,7 @@ export const ContactStyles = styled.div`
     }
   }
 
-  @media screen and (max-width: 424px) {
+  @media screen and (max-width: 359px) {
     .contact {
       height: 35rem;
 

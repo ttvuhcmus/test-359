@@ -103,7 +103,7 @@ export const FooterStyles = styled.div`
     }
   }
 
-  @media screen and (max-width: 424px) {
+  @media screen and (max-width: 359px) {
     .footer {
       height: 25rem;
 

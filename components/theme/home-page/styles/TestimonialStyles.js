@@ -42,7 +42,7 @@ export const TestimonialStyles = styled.div`
     }
   }
 
-  @media screen and (max-width: 424px) {
+  @media screen and (max-width: 359px) {
     .testimonial {
       height: 40rem;
     }

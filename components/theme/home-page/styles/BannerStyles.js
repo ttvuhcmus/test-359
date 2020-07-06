@@ -35,7 +35,7 @@ export const BannerStyles = styled.div`
     }
   }
 
-  @media screen and (max-width: 424px) {
+  @media screen and (max-width: 359px) {
     .banner {
       height: 25rem;
 
